@@ -11,5 +11,5 @@ Here you'll find projects I've worked on either purely for fun or to explore som
 📫 Get in touch ->  remihoeppe@gmail.com \
 
 ### 💬 Ask me about: \
-:arrow_forward: woodworking -> Apart from building things with 0s and 1s, I spend a lot of my spare time building things with :recycle: wood. \
-:arrow_forward: scuba diving -> love it, can't get enough of it. \
+:arrow_forward: Woodworking -> Apart from building things with 0s and 1s, I spend a lot of my spare time building things with :recycle: wood. \
+:arrow_forward: Scuba diving -> love it, can't get enough of it. \
