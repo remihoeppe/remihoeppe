@@ -7,9 +7,9 @@ Here you'll find projects I've worked on either purely for fun or to explore som
 🌱 I’m currently learning TypeScript and getting familiar with AWS Elastic Beanstalk.
 
  
-😄 Pronouns: he/him \
-📫 Get in touch ->  remihoeppe@gmail.com \
+😄 Pronouns: he/him <br>
+📫 Get in touch ->  remihoeppe@gmail.com <br>
 
 ### 💬 Ask me about:
-:arrow_forward: Woodworking -> Apart from building things with 0s and 1s, I spend a lot of my spare time building things with :recycle: wood. /\
+:arrow_forward: Woodworking -> Apart from building things with 0s and 1s, I spend a lot of my spare time building things with :recycle: wood. <br>
 :arrow_forward: Scuba diving -> love it, can't get enough of it. 
