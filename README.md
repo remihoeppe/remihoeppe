@@ -9,7 +9,7 @@ After finisihing my Biotechnologies studies in France, I pocketed my degree and 
 I decided to start a career in Hospitality, managing bars and restaurants in Paris, London before eventually making my way to Sydney.
 While this industry has given me so much, I eventually decided to re-route myself once more.
 
-🌱 I’m currently learning TypeScript and getting familiar with AWS Elastic Beanstalk.
+🌱 I’m currently learning Kotlin.
 
  
 😄 Pronouns: he/him <br>
