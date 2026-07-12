@@ -6,7 +6,7 @@ I'm a full-stack engineer working mostly in **TypeScript / React**, with a soft 
 
 ### 🔭 What I'm working on
 
-**[Monsterblock](https://github.com/remihoeppe)** — a web app for building and printing D&D monster stat block cards. React, TypeScript, Vite and Tailwind on the front, Supabase for auth, deployed on Vercel. It started as a way to get proper physical cards on the table for my campaign and grew from there.
+**[Monsterblock](https://github.com/remihoeppe)** — a web app for building and printing D&D monster stat block cards. React, TypeScript, Vite and Tailwind on the front, Supabase for auth, deployed on Vercel. It started as a way to get proper physical cards on the table for my campaign and grew from there. First release coming soon (July 2026)
 
 ### 🧑‍🍳 A bit about me
 
@@ -18,7 +18,7 @@ The industry gave me a huge amount, but eventually I decided to re-route myself 
 
 - 🪵 **Woodworking** — apart from building things in the terminal, I spend a lot of my spare time building things with ♻️ wood.
 - 🤿 **Scuba diving** — love it, can't get enough of it.
-- 🎲 **Tabletop RPGs** — which is how Monsterblock came to exist in the first place.
+- 🎲 Tabletop RPGs — late to the game, I've only recently taken a deep dive into this world, which has opened up all sorts of creative coding avenues.
 
 ### 📫 Get in touch
 
