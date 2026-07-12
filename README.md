@@ -1,20 +1,26 @@
-## Hi there 👋 
+## Hi there 👋
 
 Thanks for having a snoop on my GitHub profile.
-Here you'll find projects I've worked on either purely for fun or to explore some new language or library.
 
-About me:
+I'm a full-stack engineer working mostly in **TypeScript / React**, with a soft spot for tidy data models and things that print out nicely at the end. Here you'll find projects I've built either purely for fun or to get my hands dirty with a new language or library.
 
-After finisihing my Biotechnologies studies in France, I pocketed my degree and went on a very different path.
-I decided to start a career in Hospitality, managing bars and restaurants in Paris, London before eventually making my way to Sydney.
-While this industry has given me so much, I eventually decided to re-route myself once more.
+### 🔭 What I'm working on
 
-🌱 I’m currently learning Kotlin.
+**[Monsterblock](https://github.com/remihoeppe)** — a web app for building and printing D&D monster stat block cards. React, TypeScript, Vite and Tailwind on the front, Supabase for auth, deployed on Vercel. It started as a way to get proper physical cards on the table for my campaign and grew from there.
 
- 
-😄 Pronouns: he/him <br>
-📫 Get in touch ->  remihoeppe@gmail.com <br>
+### 🧑‍🍳 A bit about me
 
-### 💬 Ask me about:
-:arrow_forward: Woodworking -> Apart from building things with 0s and 1s, I spend a lot of my spare time building things with :recycle: wood. <br>
-:arrow_forward: Scuba diving -> love it, can't get enough of it. 
+After finishing my Biotechnologies studies in France, I pocketed my degree and took a very different path — a career in Hospitality, managing bars and restaurants in Paris and London before eventually making my way to Sydney.
+
+The industry gave me a huge amount, but eventually I decided to re-route myself once more, this time into software. These days I'm building things with `0`s and `1`s full time, and still learning something new whenever I can.
+
+### 💬 Ask me about
+
+- 🪵 **Woodworking** — apart from building things in the terminal, I spend a lot of my spare time building things with ♻️ wood.
+- 🤿 **Scuba diving** — love it, can't get enough of it.
+- 🎲 **Tabletop RPGs** — which is how Monsterblock came to exist in the first place.
+
+### 📫 Get in touch
+
+- 📧 remihoeppe@gmail.com
+- 😄 Pronouns: he/him
