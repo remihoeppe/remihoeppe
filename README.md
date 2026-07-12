@@ -4,7 +4,7 @@ Thanks for having a snoop on my GitHub profile.
 
 I'm a full-stack engineer working mostly in **TypeScript / React**, with a soft spot for tidy data models and things that print out nicely at the end. Here you'll find projects I've built either purely for fun or to get my hands dirty with a new language or library.
 
-### 🔭 What I'm working on
+### 🛠️ What I'm working on
 
 **[Monsterblock](https://github.com/remihoeppe)** — a web app for building and printing D&D monster stat block cards. React, TypeScript, Vite and Tailwind on the front, Supabase for auth, deployed on Vercel. It started as a way to get proper physical cards on the table for my campaign and grew from there. First release coming soon (July 2026)
 
